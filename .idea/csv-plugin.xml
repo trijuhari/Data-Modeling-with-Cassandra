@@ -38,6 +38,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="/event_data/2018-11-19-events.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/event_data/2018-11-20-events.csv">
           <value>
             <Attribute>
@@ -60,6 +67,13 @@
           </value>
         </entry>
         <entry key="/event_data/2018-11-27-events.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="/event_data/2018-11-28-events.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
